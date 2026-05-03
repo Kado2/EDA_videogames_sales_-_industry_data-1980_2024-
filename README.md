@@ -33,8 +33,8 @@ The project is divided into three independent notebooks:
 * **Core Libraries:** Pandas, NumPy, Matplotlib, Seaborn
 * **Environment:** Google Colab
 * **Others:** 
-    * **KaggleHub:** For direct dataset API consumption.
-    * **`os` and `shutil` modules:** For dynamic file and directory handling within the virtual environment.
+    * **KaggleHub**
+    * **`os` and `shutil` modules**
 
 ---
 
@@ -66,5 +66,5 @@ El proyecto está dividido en tres *notebooks* independientes:
 * **Librerías principales:** Pandas, NumPy, Matplotlib, Seaborn
 * **Entorno:** Google Colab
 * **Otros:** 
-    * **KaggleHub:** Para el consumo directo de la API del dataset.
-    * **Módulos `os` y `shutil`:** Para el manejo dinámico de archivos y directorios dentro del entorno virtual.
+    * **KaggleHub**
+    * **Módulos `os` y `shutil`**
