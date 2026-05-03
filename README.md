@@ -1,7 +1,7 @@
 # 🎮 Video Games Sales & Industry Analysis (1980 - 2024)
 
 *Available in two languages / Disponible en dos idiomas:*
-🌍 [Versión en Español](./Version_en_esp) | 🌎 [English Version](./English_version)
+🌍 [Versión en Español](./Version_en_esp) | 🌎 [English Version](./English_version) (To be done)
 
 ---
 
@@ -24,7 +24,7 @@ The project is divided into three independent notebooks:
 * **File:** `02_Industry_Landscape.ipynb`
 * **Description:** Uses 100% of the cleaned data (approx. 57k records). By not relying on sales metrics, this notebook freely explores global production trends: genre evolution over decades, console lifecycles, and the productive behavior of top publishers.
 
-### 3. 💰 Sales Analysis (Market Metrics)
+### 3. 💰 Sales Analysis (Market Metrics) | To be done
 * **File:** `03_Sales_Analysis.ipynb`
 * **Description:** Uses the data subset with valid sales volumes (approx. 18k records). Consciously isolated from years with higher statistical noise, this analysis focuses on commercial success metrics, regional breakdowns (North America, Europe, Japan), and the impact of individual titles on the global market.
 
@@ -57,7 +57,7 @@ El proyecto está dividido en tres *notebooks* independientes:
 * **Archivo:** `02_Industry_Landscape.ipynb`
 * **Descripción:** Utiliza el 100% de los datos limpios (aprox. 57k registros). Al no depender de las métricas de ventas, este cuaderno explora libremente las tendencias globales de producción: evolución de géneros a lo largo de las décadas, ciclo de vida de las consolas y el comportamiento productivo de los principales editores (*publishers*).
 
-### 3. 💰 Análisis de Ventas (Métricas de Mercado)
+### 3. 💰 Análisis de Ventas (Métricas de Mercado) | Por completar
 * **Archivo:** `03_Sales_Analysis.ipynb`
 * **Descripción:** Utiliza el subconjunto de datos con volumen de ventas válido (aprox. 18k registros). Aislado conscientemente de los años con mayor ruido estadístico, este análisis se enfoca en responder métricas de éxito comercial, análisis por regiones (Norteamérica, Europa, Japón) y el impacto de títulos individuales en el mercado global.
 
