@@ -27,6 +27,10 @@ The project is divided into three independent notebooks:
 ### 3. 💰 Sales Analysis (Market Metrics)
 * **File:** `03_Sales_Analysis.ipynb`
 * **Description:** Uses the data subset with valid sales volumes (approx. 18k records). Consciously isolated from years with higher statistical noise, this analysis focuses on commercial success metrics, regional breakdowns (North America, Europe, Japan), and the impact of individual titles on the global market.
+* **Key Findings:** 
+  * **Success Formulas:** When analyzing the highest-grossing consoles historically, their commercial success is not evenly distributed but relies heavily on a handful of mainstream genres (Action, Sports, and Shooters) that drive the vast majority of sales.
+  * **Western Synergy:** North American and European markets show nearly identical behaviors, historically dominated by *Sports*, *Action*, and *Shooter* genres.
+  * **The Japanese Market:** Japan stands out as an isolated ecosystem that breaks the Western trend, with *Role-Playing* (RPG) games being its most successful genre.
 
 ## 🛠️ Tools & Technologies
 * **Language:** Python
@@ -59,7 +63,11 @@ El proyecto está dividido en tres *notebooks* independientes:
 
 ### 3. 💰 Análisis de Ventas (Métricas de Mercado)
 * **Archivo:** `03_Sales_Analysis.ipynb`
-* **Descripción:** Utiliza el subconjunto de datos con volumen de ventas válido (aprox. 18k registros). Aislado conscientemente de los años con mayor ruido estadístico, este análisis se enfoca en responder métricas de éxito comercial, análisis por regiones (Norteamérica, Europa, Japón) y el impacto de títulos individuales en el mercado global.
+* **Descripción:** Utiliza el subconjunto de datos con volumen de ventas válido (aprox. 18k registros). Aislado conscientemente de los años con mayor ruido estadístico, este análisis se enfoca en métricas de éxito comercial, consumo por regiones (Norteamérica, Europa, Japón) y el impacto de títulos individuales en la industria.
+* **Hallazgos Clave:** 
+  * **Fórmulas de Éxito:** Al analizar las consolas con mayor recaudación histórica, se observa que su éxito comercial no es diverso, sino que se apoya fuertemente en un puñado de géneros masivos (Acción, Deportes y Shooters) que traccionan la gran mayoría de las ventas.
+  * **Sinergia Occidental:** Los mercados de Norteamérica y Europa presentan comportamientos casi idénticos, dominados históricamente por los géneros *Deportes*, *Acción* y *Shooter*.
+  * **El mercado japonés:** Japón se perfila como un ecosistema aislado que rompe la tendencia de occidente, donde los juegos de mayor éxito son aquellos del género *Role-Playing* (RPG).
 
 ## 🛠️ Herramientas utilizadas
 * **Lenguaje:** Python
